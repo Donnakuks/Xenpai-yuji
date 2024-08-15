@@ -91,11 +91,11 @@
 if scan qr is not working please try using pairing code i am currently working on it
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR OR PAIR CODE`](https:https://render-session-scanner-by-ibrahim-adams.onrender.com)
-<a href="https://render-session-scanner-by-ibrahim-adams.onrender.com="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 and scanning qr server" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 and scanning qr server-h?color=green&style=for-the-badge&logo=msi"></a>
+<a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/">img< title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 and scanning qr server" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 and scanning qr server-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-3.  ***Click [`FORK`](https://github.com/Donnakuks/xenpai-yuji-md/fork) and `Star ⭐ Repository` for Courage.***
+3.  ***Click [`FORK`](https://github.com/Donnakuks/xenpai-yuji/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 6.  ***Deploy on [`HEROKU`](https://deploy-Xenpai-yuji-md.vercel.app/)***
@@ -206,4 +206,3 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 ### UPDATE
 SUPPORT NUMBERS ARE CHANGED DUE TO UNEXPECTED ISSUES HERE ARE THE NEW [NUMBERS](https://wa.me/254737308001?text=hi%20bro%20i%20saved%20your%20number%20save%20mine%20too%20i'm) 
-
