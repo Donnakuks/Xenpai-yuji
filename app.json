@@ -1,8 +1,8 @@
 {
-  "name": "Black Panther MD X5 whatsapp",
-  "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/BlackPanther-svg/Black-Panther-MD-",
-  "logo": "https://telegra.ph/file/ec059aa5db556bbd951c6.jpg",
+  "name": "XENPAI-YUJI🀄🌀",
+  "description": "whatsapp md bot built with nodejs",
+  "repository": "https://github.com/Donnakuks/Xenpai-yuji",
+  "logo": "https://telegra.ph/file/668659900721c3ef948c5.jpg",
   "keywords": ["nodejs", "bot", "what5sapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
