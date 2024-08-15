@@ -81,7 +81,7 @@
 
 <h3>XENPAI-YUJI Stats</h3>
 
-![XENPAI-YUJI Stats](https://github-readme-stats.vercel.app/api/pin/?username=Donnakuks&repo=xenpai-yujii&show_owner=true&theme=dark)
+![XENPAI-YUJI Stats](https://github-readme-stats.vercel.app/api/pin/?username=Donnakuks&repo=xenpai-yuji&show_owner=true&theme=dark)
 
 
     
@@ -90,7 +90,7 @@
 ## Deployment Methods
 if scan qr is not working please try using pairing code i am currently working on it
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR OR PAIR CODE`](https:https://render-session-scanner-by-ibrahim-adams.onrender.com/)
+1.  ***Get `SESSION ID` by [`SCANING QR OR PAIR CODE`](https:https://render-session-scanner-by-ibrahim-adams.onrender.com)
 <a href="https://Xenpai-yuji-md-session.onrender.com/pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 and scanning qr server" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 and scanning qr server-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
