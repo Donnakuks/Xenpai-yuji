@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              BLACK PANTHER MD ..., MADE BY IBRAHIM ADAMS
-//                                    IBRAHIM TECH BEST TECH EVER
+//                              XENPAI-YUJI-MD ..., MADE BY XENPAI-DARK
+//                                    XENPAI-DARK TECH BEST TECH EVER
 //
 //════════════════════════════//
 
