@@ -156,11 +156,13 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
   
   * [`𝐝𝐨𝐧'𝐭 𝐞𝐯𝐞𝐧 𝐡𝐚𝐯𝐞 𝐠𝐢𝐭𝐡𝐮𝐛 𝐚𝐜𝐜𝐨𝐮𝐧𝐭` How To setup Github 1st step `𝒄𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆`](https://youtu.be/19v5VCx5fDk?si=l9GzHaJg8Vedj5ld)
   
- * Deploy on Heroku Video ⇓ href="https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC"><img title"DEPLOY ON HEROKU"
+ * [`Deploy on Heroku Video` CLICK HERE]
+(https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC)
    
-* don't have heroku account? ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ Video ⇓ href"https://youtu.be/ZcvbJNg3tHU?si=zDml6TGO1dAmYAX8"><img title="CREATE"
+* [`don't have heroku account? ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ Video`CLICK HERE] 
+(https://youtu.be/ZcvbJNg3tHU?si=zDml6TGO1dAmYAX8)
    
-* ☆ ᴇxᴛʀᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀɴᴅ ᴇɴᴊᴏʏ ☆ ᴠɪsɪᴛ ʜᴇʀᴇ ⇓ href"https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img title="EXTRA"
+* [`☆ ᴇxᴛʀᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀɴᴅ ᴇɴᴊᴏʏ ☆` ᴠɪsɪᴛ ʜᴇʀᴇ] (https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg)
    
 [![XENPAI-DARK tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F3FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you+for+using+XENPAI+YUJI+MD🌻🀄)](https://github.com/Donnakuks)
 
