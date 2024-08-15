@@ -158,40 +158,33 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
   
  * Deploy on Heroku Video ⇓
  <p align="left">
-<a href="https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC"><img align="center" src="https://telegra.ph/file/75671c3784389fa525fcd.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/1wNVPsZ98Mo?si=ftQ2cg82U0cz-mbC"><img align="center"><img="DEPLOY" height="110" width="200" /></a>
    
 * don't have heroku account? ᴄʀᴇᴀᴛᴇ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ Video ⇓
  <p align="left">
-<a href="https://youtu.be/ZcvbJNg3tHU?si=zDml6TGO1dAmYAX8"><img align="center" src="https://telegra.ph/file/5a696eef7283442c96a2e.jpg" alt="ᴄʀᴇᴀᴛᴇ" height="110" width="200" /></a>
+<a href="https://youtu.be/ZcvbJNg3tHU?si=zDml6TGO1dAmYAX8"><img align="center"><img="ᴄʀᴇᴀᴛᴇ" height="110" width="200" /></a>
    
 * ☆ ᴇxᴛʀᴀ ᴛᴇᴄʜ ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴀɴᴅ ᴇɴᴊᴏʏ ☆ ᴠɪsɪᴛ ʜᴇʀᴇ ⇓
 <p align="left">
-<a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center" src="https://telegra.ph/file/991e14c61b17a26c99da4.jpg" alt="DEPLOY" height="110" width="200" /></a>
+<a href="https://youtu.be/FshoHx1Vk7U?si=bykHPB3juze4hIrg"><img align="center"><img="DEPLOY" height="110" width="200" /></a>
    
 [![XENPAI-DARK tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F3FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=thank+you+for+using+XENPAI+YUJI+MD🌻🀄)](https://github.com/Donnakuks)
 
 <h1>🕷</h1> 
 <b>Thanks For</b> -
 
- [XENPAI-YUJI-MD🀄🌻](https://wa.me/message/254737308001) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Donnakuks) , [Itxxwasi](https://wa.me/message/THZ3I25BYZM2E1) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/254737308001) and [officialchuimsela](https://wa.me/+254737308001) thanks for helps 
+ [XENPAI-YUJI-MD🀄🌻](https://wa.me/message/254737308001) for Voice ,[cecilia](https://youtu.be/1wNVPsZ98Mo?si=jZSXgdBRyA00kjKl) , [he.is.me](http://github.com/Donnakuks) , [Itxxwasi](https://wa.me/message/) , [𝘎𝘪𝘧𝘵𝘦𝘥 𝘵𝘦𝘤𝘩](https://wa.me/message/254737308001) and [officialchuimsela](https://wa.me/+254737308001) thanks for helps 
 
- ## [ WHATSAPP GROUPS ](https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN)
+ ## [ WHATSAPP GROUPS ](honfvbijnhttps://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ©2024
-█░█ █▀ █▄░█ ▄▀▄ ▄▀ █░█ █▀▄
-█░█ █▀ █░▀█ █░█ █░ ▀▄▀ █▀█
-░▀░ ▀▀ ▀░░▀ ░▀░ ░▀ ░▀░ ▀▀░
-█▀ █▀▀▄
-█▀ █▐█▀  
-█▀▄▀█ █▀▄
-█░▀░█ █▄▀
-▀▀ ▀░▀▀
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![XENPAI-DAR tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F1FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Goodluck+on+deploying;Bot+programmed+by+XENPAI+DARK🀄🌻)](https://github.com/Donnakuks)
+[![XENPAI-DARK tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F1FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Goodluck+on+deploying;Bot+programmed+by+XENPAI+DARK🀄🌻)](https://github.com/Donnakuks)
 
 <p align="center">
   <a href="https://github.com/Donnakuks/Xenpai-yuji">
