@@ -1,15 +1,15 @@
 {
-   "name": "black_panther-md 4.1.0",
+   "name": "XENPAI-YUJI-MD",
    "version": "1.2.8-beta",
-   "description": "Multi device whatsapp bot by Ibrahim Tech.",
+   "description": "Multi device whatsapp bot by XENPAI-DARK.",
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {
-            "run": "pm2 start lib/smd.js --deep-monitoring --attach --name Ibrahim || node lib/smd.js",
-            "start": "pm2 start lib/smd.js --attach --name Ibrahim",
+            "run": "pm2 start lib/smd.js --deep-monitoring --attach --name Dark || node lib/smd.js",
+            "start": "pm2 start lib/smd.js --attach --name Dark",
             "stop": "pm2 stop Ibrahim"
    },
-   "author": "Ibrahim Adams",
+   "author": "XENPAI DARK",
    "license" :"Apache-2.0",
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
@@ -71,8 +71,8 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/Ibrahimaitec/BLACK-PANTHER-MD.git"
+      "url": "git+https://github.com/Donnakuks/xenpai-yuji.git"
    },
-   "bugs": { "url": "https://github.com/Ibrahimaitech/BLACK-PANTHER-MD/issues" },
-   "homepage": "https://github.com/ibrahimaitech/BLACK PANTHER MD#readme"
+   "bugs": { "url": "https://github.com/Donnakuks/xenpai-yuji/issues" },
+   "homepage": "https://github.com/Donnakuks/Xenpai-yuji #readme"
 }
