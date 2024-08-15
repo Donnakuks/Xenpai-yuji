@@ -91,7 +91,7 @@
 if scan qr is not working please try using pairing code i am currently working on it
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR OR PAIR CODE`](https:https://render-session-scanner-by-ibrahim-adams.onrender.com)
-<a href="https://render-session-scanner-by-ibrahim-adams.onrender.com/="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 and scanning qr server" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 and scanning qr server-h?color=green&style=for-the-badge&logo=msi"></a>
+<a href="https://render-session-scanner-by-ibrahim-adams.onrender.com="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 and scanning qr server" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 and scanning qr server-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
